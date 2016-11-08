@@ -1,7 +1,11 @@
 ﻿# Dependency_Injection
  
- 依赖注入的简洁明了的介绍：
+ 依赖注入的简洁明了的概念性介绍：
  https://github.com/android-cn/blog/tree/master/java/dependency-injection
+ 
+ 简单的使用介绍
+ http://www.coderblog.in/2010/02/understanding-dependency-injection-and-its-benefits.html
+ 
 ﻿
 ﻿http://blog.csdn.net/derekjiang/article/details/7231490
 ﻿
