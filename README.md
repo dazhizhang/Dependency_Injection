@@ -1,4 +1,7 @@
 ﻿# Dependency_Injection
+ 
+ 依赖注入的简洁明了的介绍：
+ https://github.com/android-cn/blog/tree/master/java/dependency-injection
 ﻿
 ﻿http://blog.csdn.net/derekjiang/article/details/7231490
 ﻿
