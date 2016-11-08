@@ -6,6 +6,9 @@
  简单的使用介绍
  http://www.coderblog.in/2010/02/understanding-dependency-injection-and-its-benefits.html
  
+ 争议性文章
+ http://www.infoq.com/cn/news/2007/12/does-di-pay-off
+ 
 ﻿
 ﻿http://blog.csdn.net/derekjiang/article/details/7231490
 ﻿
