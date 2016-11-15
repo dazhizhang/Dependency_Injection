@@ -3,16 +3,18 @@
  依赖注入的简洁明了的概念性介绍：
  https://github.com/android-cn/blog/tree/master/java/dependency-injection
  
- 简单的使用介绍
- http://www.coderblog.in/2010/02/understanding-dependency-injection-and-its-benefits.html
+ IBM的文章
+ http://www.ibm.com/developerworks/cn/java/j-guice.html
  
  争议性文章
  http://www.infoq.com/cn/news/2007/12/does-di-pay-off
  
 ﻿
-﻿http://blog.csdn.net/derekjiang/article/details/7231490
-﻿
 Google-Guice入门介绍
+﻿http://blog.csdn.net/derekjiang/article/details/7231490
+ 
+ 另外，testng提供对class用下面的annotation来标明依赖注入的方式
+ @Guice(modules = {AModule.class, BModle.class})
 
 
 一. 概述
