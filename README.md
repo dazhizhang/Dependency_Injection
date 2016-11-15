@@ -3,6 +3,9 @@
  依赖注入的简洁明了的概念性介绍：
  https://github.com/android-cn/blog/tree/master/java/dependency-injection
  
+ 详细介绍
+ https://www.oschina.net/translate/ioc-and-injection
+ 
  IBM的文章
  http://www.ibm.com/developerworks/cn/java/j-guice.html
  
